@@ -24,7 +24,7 @@ body{
 header{
 	background-color: #93A76B;
 	color: #000000;
-	padding-top: 30px;
+	padding top: 30px;
 	min-height: 70px;
 	border-bottom: #BC9968 9px solid;
 }
@@ -36,7 +36,7 @@ header a{
 }
 
 header ul{
-	margin: 0;
+	bottom margin: 20px;
 	padding: 0;
 }
 
@@ -47,7 +47,8 @@ header li{
 }
 
 header #branding{
-	margin: 0;
+	margin-top: 20px;
+
 }
 
 header nav{
